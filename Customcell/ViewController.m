@@ -9,7 +9,7 @@
 #import "ViewController.h"
 #import "DetailCollectionViewCell.h"
 
-@interface ViewController ()<UICollectionViewDataSource,UICollectionViewDelegate>
+@interface ViewController ()
 
 @end
 
